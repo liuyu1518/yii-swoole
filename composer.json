@@ -1,0 +1,20 @@
+{
+    "name": "qyh/yii-swoole",
+    "type": "l",
+    "require": {
+        "php": ">=7.2.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "jackLiu",
+            "email": "930033800@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Cjc\\": "src/cjc"  
+        }
+    }
+}
